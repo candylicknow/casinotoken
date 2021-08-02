@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDMDDAT6H664QIXC6EWOFG43ADQ42TXSYXPANWBJP2SEOC4H6NPESLV7"
+"GBRXTUSUF35NCIOHBP57HTHEPI5IQJRSILR5ZOREWDJIAC4LQWJPCFBK"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="forbesxlm"
-ORG_URL="https://www.forbesxlm.org"
-ORG_DESCRIPTION="ForbesXLM is a token related to Forbes magazine, an American business magazine owned by Integrated Whale Media Investments and the Forbes family."
-ORG_TWITTER="@forbesxlm"
-ORG_LOGO="https://i.ibb.co/zSP7dfd/forbesxlm.jpg"
-ORG_OFFICIAL_EMAIL="forbesxlm@gmail.com"
+ORG_NAME="casinotoken"
+ORG_URL="https://www.casinotoken.org"
+ORG_DESCRIPTION="Casino Token is bonded to casino, which is a facility for certain types of gambling, also known for profits gained there."
+ORG_TWITTER="@casinotoken"
+ORG_LOGO="https://i.ibb.co/YN5z21z/casinotoken.jpg"
+ORG_OFFICIAL_EMAIL="casinotoken@gmail.com"
 
 
 [[CURRENCIES]]
-code="ForbesXLM"
-issuer="GDMDDAT6H664QIXC6EWOFG43ADQ42TXSYXPANWBJP2SEOC4H6NPESLV7"
+code="CasinoToken"
+issuer="GBRXTUSUF35NCIOHBP57HTHEPI5IQJRSILR5ZOREWDJIAC4LQWJPCFBK"
 anchor_asset="false"
-name="Forbes XLM"
-desc="ForbesXLM is a token related to Forbes magazine, an American business magazine owned by Integrated Whale Media Investments and the Forbes family."
+name="Casino Token"
+desc="Casino Token is bonded to casino, which is a facility for certain types of gambling, also known for profits gained there."
 conditions=""
-image="https://i.ibb.co/zSP7dfd/forbesxlm.jpg"
+image="https://i.ibb.co/YN5z21z/casinotoken.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#ForbesXLM was issued using the open and inclusive Stellar blockchain network.
+#CasinoToken was issued using the open and inclusive Stellar blockchain network.
