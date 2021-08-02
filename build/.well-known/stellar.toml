@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDDWAP5NAK7WDAL46IWCUNNDGKFTYWQ6DWNMU36ELG4SWSUAODHPLIYD"
+"GDMDDAT6H664QIXC6EWOFG43ADQ42TXSYXPANWBJP2SEOC4H6NPESLV7"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="rosequartz"
-ORG_URL="https://www.rosequartz.org"
-ORG_DESCRIPTION="Although quartz is one of the most common minerals on Earth, natural Rose Quartz is one of the rarest colored varieties of crystalline quartz."
-ORG_TWITTER="@rosequartz"
-ORG_LOGO="https://i.ibb.co/JK55hDy/rosequartz.webp"
-ORG_OFFICIAL_EMAIL="rosequartz@gmail.com"
+ORG_NAME="forbesxlm"
+ORG_URL="https://www.forbesxlm.org"
+ORG_DESCRIPTION="ForbesXLM is a token related to Forbes magazine, an American business magazine owned by Integrated Whale Media Investments and the Forbes family."
+ORG_TWITTER="@forbesxlm"
+ORG_LOGO="https://i.ibb.co/zSP7dfd/forbesxlm.jpg"
+ORG_OFFICIAL_EMAIL="forbesxlm@gmail.com"
 
 
 [[CURRENCIES]]
-code="RoseQuartz"
-issuer="GDDWAP5NAK7WDAL46IWCUNNDGKFTYWQ6DWNMU36ELG4SWSUAODHPLIYD"
+code="ForbesXLM"
+issuer="GDMDDAT6H664QIXC6EWOFG43ADQ42TXSYXPANWBJP2SEOC4H6NPESLV7"
 anchor_asset="false"
-name="Rose Quartz"
-desc="Although quartz is one of the most common minerals on Earth, natural Rose Quartz is one of the rarest colored varieties of crystalline quartz."
-conditions="Rose Quartz is the stone of universal love."
-image="https://i.ibb.co/JK55hDy/rosequartz.webp"
+name="Forbes XLM"
+desc="ForbesXLM is a token related to Forbes magazine, an American business magazine owned by Integrated Whale Media Investments and the Forbes family."
+conditions=""
+image="https://i.ibb.co/zSP7dfd/forbesxlm.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#RoseQuartz was issued using the open and inclusive Stellar blockchain network.
+#ForbesXLM was issued using the open and inclusive Stellar blockchain network.
